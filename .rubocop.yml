@@ -1,0 +1,6 @@
+Style/StringLiterals:
+  EnforcedStyle: double_quotes
+  Enabled: true
+# Allow classes longer than 100 lines of code
+ClassLength:
+  Max: 250 # or whatever ends up being appropriate
